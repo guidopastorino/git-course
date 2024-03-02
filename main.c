@@ -2,7 +2,9 @@
 #include <stdlib.h>
 
 int main(){
-    printf("xd\n");
+    printf("fetch lol\n");
 
+    int n = 10;
+    
     return 0;
 }
