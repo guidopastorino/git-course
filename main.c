@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-    printf("No hay matriz\n");
+    printf("xd\n");
 
     return 0;
 }
