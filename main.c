@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Nuevo archivo C master");
+    int num = 10;
 
     return 0;
 }
